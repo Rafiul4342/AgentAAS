@@ -1,0 +1,46 @@
+2022-11-15 11:08:06.6988 - Info - HelloAssetAdministrationShell.Program - Starting HelloAssetAdministrationShell's HTTP server... 
+
+2022-11-15 11:08:11.4052 - Info - BaSyx.Components.Common.ServerApplication - wwwroot-Path: D:\BasyxProjectPractice\basyx-dotnet-applications\basyx-dotnet-examples\HelloAssetAdministrationShell\bin\Debug\netcoreapp3.1\wwwroot 
+
+2022-11-15 11:08:12.1374 - Info - BaSyx.API.Components.DefaultEndpointRegistration - Using http://172.18.176.1:5180 as endpoint 
+
+2022-11-15 11:08:12.1374 - Info - BaSyx.API.Components.DefaultEndpointRegistration - Using http://192.168.99.1:5180 as endpoint 
+
+2022-11-15 11:08:12.1374 - Info - BaSyx.API.Components.DefaultEndpointRegistration - Using http://192.168.56.1:5180 as endpoint 
+
+2022-11-15 11:08:12.1374 - Info - BaSyx.API.Components.DefaultEndpointRegistration - Using http://192.168.0.100:5180 as endpoint 
+
+2022-11-15 11:08:12.7386 - Info - BaSyx.Components.Common.ServerApplication - Starting Server... 
+
+2022-11-15 11:08:17.2594 - Info - BaSyx.Components.Common.ServerApplication - Pages-RootDirectory: /Pages 
+
+2022-11-15 11:08:20.0872 - Info - BaSyx.Utils.AssemblyHandling.EmbeddedResource - Resource 'BaSyx.API.Http.Controllers.xml' successfully created at D:\BasyxProjectPractice\basyx-dotnet-applications\basyx-dotnet-examples\HelloAssetAdministrationShell\bin\Debug\netcoreapp3.1\BaSyx.API.Http.Controllers.xml 
+
+2022-11-15 11:08:20.1915 - Info - BaSyx.Discovery.mDNS.DiscoveryClient - Creating service profile with	ServiceName=HelloAAS	ServiceType=_aas_service._tcp	Port=5180	IPAddresses=172.18.176.1;192.168.99.1;192.168.56.1;192.168.0.100 
+
+2022-11-15 11:08:20.2231 - Info - BaSyx.Discovery.mDNS.DiscoveryClient - Advertise thread starting... 
+
+2022-11-15 11:08:20.2231 - Info - BaSyx.Discovery.mDNS.DiscoveryClient - Advertise thread started successfully 
+
+2022-11-15 11:17:25.8325 - Info - HelloAssetAdministrationShell.Program - Starting HelloAssetAdministrationShell's HTTP server... 
+
+2022-11-15 11:17:26.5212 - Info - BaSyx.Components.Common.ServerApplication - wwwroot-Path: D:\BasyxProjectPractice\basyx-dotnet-applications\basyx-dotnet-examples\HelloAssetAdministrationShell\bin\Debug\netcoreapp3.1\wwwroot 
+
+2022-11-15 11:17:27.1222 - Info - BaSyx.API.Components.DefaultEndpointRegistration - Using http://172.18.176.1:5180 as endpoint 
+
+2022-11-15 11:17:27.1222 - Info - BaSyx.API.Components.DefaultEndpointRegistration - Using http://192.168.99.1:5180 as endpoint 
+
+2022-11-15 11:17:27.1222 - Info - BaSyx.API.Components.DefaultEndpointRegistration - Using http://192.168.56.1:5180 as endpoint 
+
+2022-11-15 11:17:27.1222 - Info - BaSyx.API.Components.DefaultEndpointRegistration - Using http://192.168.0.100:5180 as endpoint 
+
+2022-11-15 11:17:27.1807 - Info - BaSyx.Components.Common.ServerApplication - Starting Server... 
+
+2022-11-15 11:17:29.3003 - Info - BaSyx.Components.Common.ServerApplication - Pages-RootDirectory: /Pages 
+
+2022-11-15 11:17:30.5283 - Info - BaSyx.Discovery.mDNS.DiscoveryClient - Creating service profile with	ServiceName=HelloAAS	ServiceType=_aas_service._tcp	Port=5180	IPAddresses=172.18.176.1;192.168.99.1;192.168.56.1;192.168.0.100 
+
+2022-11-15 11:17:30.5697 - Info - BaSyx.Discovery.mDNS.DiscoveryClient - Advertise thread starting... 
+
+2022-11-15 11:17:30.5850 - Info - BaSyx.Discovery.mDNS.DiscoveryClient - Advertise thread started successfully 
+
