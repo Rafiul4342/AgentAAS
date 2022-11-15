@@ -7,5 +7,9 @@ namespace HelloAssetAdministrationShell.AgentFunction
 {
     public class Component
     {
+        public String Name { get; set; }
+        public double MaxiumRuntime { get; set; }
+        public string UnitofTime { get; set; }
+
     }
 }
